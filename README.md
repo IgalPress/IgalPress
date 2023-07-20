@@ -10,4 +10,4 @@
         - I traveled to Guelph, Ontario for the 2022 Canadian Undergraduate Physics Conference and won fourth place in both the poster presentation section and the oral presentation section.
         - I also competed in the Randy Kobes poster competition held annualy at The University of Winnipeg.
 - I’m currently in my fourth year of the Mathematical Physics Honours degree at The University of Winnipeg.
-- Please feel free to reach out to me at press.igal@gmail.com if you have any questions!
+- Please feel free to reach out to me at press.igal@gmail.com or at linkedin.com/in/igal-press/ if you have any questions!
