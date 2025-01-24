@@ -1,5 +1,5 @@
 - Hi, I'm Igal Press and I generally do data science for physics research related topics. I'm currently a fourth year Mathematical Physics Major at The University of Winnipeg.
-- I speak English, Russian, and Hebrew, and am confident in my French and Japanese given enough time living in the respective areas.
+- I speak English, Russian, and Hebrew, and am confident in my French and German given enough time living in the respective areas.
 - So far I've worked at Triumf in Vancouver, BC for the Tokai-To-Kamioka (T2K) collaboration with a focus on electron/gamma and electron/muon separation in the Super-K far detector.
     - This work was mainly focused on machine learning applications using the ResNet CNN model using Python.
         - I worked on pre-processing and training optimization working towards the best training outcomes possible. 
